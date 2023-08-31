@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ECastro08/random-str-msm/issues"
   },
-  "homepage": "https://github.com/ECastro08/random-str-msm#readme"
+  "homepage": "https://github.com/ECastro08/random-str-msm#readme",
+  "bin": {
+    "random-str-msm": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
